@@ -6,7 +6,7 @@
 
 
 
-| Details | Home |  Favorites 
+| Popular | Top Rated |  Details 
 |:-:|:-:|:-:|
 | ![1](images/app_image.jpeg) | ![2](images/app_image2.jpeg) | ![3](images/app_image3.jpeg) | ![4](./assets/screenshots/topics_light.png)
 | Details Dark | Home Dark |  Favorites Dark | Topics Dark
