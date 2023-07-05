@@ -4,10 +4,9 @@
 <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
 <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin%20-%23FF6F00.svg?&style=for-the-badge&logo=kotlin&logoColor=dark" /> </a>
 
-![summary](images/app_image6.png)
 
 
-![summary](images/app_image.jpeg)
+![summary](images/app_image.jpeg ) width="500" height="900"
 ![summary](images/app_image2.jpeg)
 ![summary](images/app_image3.jpeg)
 ![summary](images/app_image4.jpeg)
