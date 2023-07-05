@@ -6,16 +6,16 @@
 
 
 
-<!-- LOGO -->
-<br />
-<h1>
-<p align="center">
-  <img src="images/app.jpg" alt="Logo" width="140" height="150">
-  <br>
-  <b>Movies</b>
-</h1>
 
-This app displays a list of movies, tv shows and actors by consuming The Movie Database (TMDb) API using Android.
+![summary](images/app_image.jpeg)
+![summary](images/app_image2.jpeg)
+![summary](images/app_image3.jpeg)
+![summary](images/app_image4.jpeg)
+![summary](images/app_image5.jpeg)
+![summary](images/app_image6.jpeg)
+
+
+
 
 </p>
 <p align="center">
