@@ -8,9 +8,9 @@
 
 | Popular | Top Rated |  Details 
 |:-:|:-:|:-:|
-| ![1](images/app_image.jpeg) | ![2](images/app_image2.jpeg) | ![3](images/app_image3.jpeg) | ![4](./assets/screenshots/topics_light.png)
-| Details Dark | Home Dark |  Favorites Dark | Topics Dark
-| ![5](./assets/screenshots/course_dark.png) | ![6](./assets/screenshots/home_dark.png) | ![7](./assets/screenshots/favorites_dark.png) | ![8](./assets/screenshots/topics_dark.png)
+| ![1](images/app_image.jpeg) | ![2](images/app_image2.jpeg) | ![3](images/app_image3.jpeg) | ![4](images/app_image4.jpeg)
+| TV Show | Home Dark |  Favorites Dark | Topics Dark
+| ![5](images/app_image.jpeg5) | ![6](images/app_image.jpeg6) | ![7](./assets/screenshots/favorites_dark.png) | ![8](./assets/screenshots/topics_dark.png)
 
 
 
