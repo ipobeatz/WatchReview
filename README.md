@@ -18,14 +18,7 @@
 
 
 
-</p>
-<p align="center">
-<a href="#setup">Setup</a> •
-  <a href="#components">Components</a> •
-  <a href="#scorecards">Scorecards</a> •
-  <a href="#license">License</a>
-  
-</p>  
+
 
 
 
