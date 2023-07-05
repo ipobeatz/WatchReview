@@ -27,7 +27,7 @@
   
 </p>  
 
-<a href="https://gifyu.com/image/SLMnW"><img src="./images/app.gif" alt="app11615c422e146ec6.gif" border="0"  width="500" height="900"></a>
+
 
 ## Setup
 
