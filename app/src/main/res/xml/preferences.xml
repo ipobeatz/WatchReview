@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+
+
+    >
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_user_shield"
+        app:title="@string/user_preferences"
+
+        >
+
+        <ListPreference
+            app:defaultValue="default"
+            app:entries="@array/theme_entries"
+            app:entryValues="@array/theme_values"
+            app:key="theme"
+
+
+            app:title="@string/theme"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_notifications"
+        app:title="@string/notifications">
+
+        <SwitchPreferenceCompat
+            android:defaultValue="false"
+            app:key="@string/KEY_DISABLE_NOTIFICATIONS"
+            app:summaryOff="@string/all_notifications"
+            app:summaryOn="@string/no_more_notifications"
+            app:title="@string/disable_notifications" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_message"
+        app:title="@string/messages_header"
+        />
+
+    <ListPreference
+        app:defaultValue="reply"
+        app:entries="@array/reply_entries"
+        app:entryValues="@array/reply_values"
+        app:key="reply"
+        app:title="@string/reply_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <SeekBarPreference
+        app:defaultValue="30"
+        app:key="volume_notifications"
+        app:showSeekBarValue="true"
+        app:title="@string/volume" />
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_information"
+        app:title="@string/info">
+
+        <EditTextPreference
+            app:key="Version"
+            app:title="Version"
+            app:summary="v0.1.0-beta-v8a"
+            android:selectable="false"
+            />
+
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="@dimen/nav_header_vertical_spacing"
+    android:background="#2B4B73"
+    android:paddingBottom="@dimen/nav_header_vertical_spacing"
+    >
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/image_view_logo"
+        android:layout_width="74dp"
+        android:layout_height="67dp"
+        android:paddingTop="@dimen/nav_header_vertical_spacing"
+        android:src="@drawable/icon"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent" />
+
+    <TextView
+        android:id="@+id/text_view_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/margin_standard"
+        android:fontFamily="@font/raleway"
+        android:paddingTop="@dimen/margin_high"
+        android:text="WATCH REVİEW"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@id/image_view_logo"
+        app:layout_constraintTop_toTopOf="parent"
+
+        />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

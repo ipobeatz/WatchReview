@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="grid_2">16dp</dimen>
+    <dimen name="grid_1_5">12dp</dimen>
+    <dimen name="grid_1">8dp</dimen>
+    <dimen name="text_tab_layout_size">14sp</dimen>
+    <dimen name="margin_high">32dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="text_size_body_title">16sp</dimen>
+    <dimen name="dimen_20sp">20sp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+</resources>
