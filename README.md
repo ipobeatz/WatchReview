@@ -6,9 +6,12 @@
 
 
 
-![1] ![summary](images/app_image.jpeg) | ![2]![summary](images/app_image2.jpeg) | ![3]![summary](images/app_image3.jpeg)
+| Details | Home |  Favorites | Topics
+|:-:|:-:|:-:|:-:|
+| ![1](images/app_image) | ![2](images/app_image2) | ![3](images/app_image3) | ![4](./assets/screenshots/topics_light.png)
+| Details Dark | Home Dark |  Favorites Dark | Topics Dark
+| ![5](./assets/screenshots/course_dark.png) | ![6](./assets/screenshots/home_dark.png) | ![7](./assets/screenshots/favorites_dark.png) | ![8](./assets/screenshots/topics_dark.png)
 
-![4]![summary](images/app_image4.jpeg) ![5]![summary](images/app_image5.jpeg) ![6]![summary](images/app_image6.jpeg)
 
 
 
