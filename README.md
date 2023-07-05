@@ -6,7 +6,7 @@
 
 
 
-![1] ![summary](images/app_image.jpeg) ![2]![summary](images/app_image2.jpeg) ![3]![summary](images/app_image3.jpeg)
+![1] ![summary](images/app_image.jpeg) | ![2]![summary](images/app_image2.jpeg) | ![3]![summary](images/app_image3.jpeg)
 
 ![4]![summary](images/app_image4.jpeg) ![5]![summary](images/app_image5.jpeg) ![6]![summary](images/app_image6.jpeg)
 
