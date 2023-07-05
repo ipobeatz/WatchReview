@@ -8,7 +8,7 @@
 
 | Popular | Top Rated |  Details 
 |:-:|:-:|:-:|
-| ![1](images/app_image.jpeg) | ![2](images/app_image2.jpeg) | ![3](images/app_image3.jpeg) | ![4](images/app_image4.jpeg)
+| ![1](images/app_image.jpeg) | ![2](images/app_image2.jpeg) | ![3](images/app_image3.jpeg) 
 | TV Show | Home Dark |  Favorites Dark | Topics Dark
 | ![5](images/app_image.jpeg5) | ![6](images/app_image.jpeg6) |
 
