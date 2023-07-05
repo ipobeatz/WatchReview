@@ -62,27 +62,10 @@ const val TMDb_API_KEY = "abc123"
 
 ## Scorecards
 
-![summary](images/summary.png)
+
 ![jetpack](images/jetpack.png)
 ![kotlin](images/kotlin.png)
 
 
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/ISW-IAW/SistemaContable.svg?style=for-the-badge
-[contributors-url]: https://github.com/ISW-IAW/SistemaContable/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ISW-IAW/SistemaContable.svg?style=for-the-badge
-[forks-url]: https://github.com/ISW-IAW/SistemaContable/network/members
-[stars-shield]: https://img.shields.io/github/stars/ISW-IAW/SistemaContable.svg?style=for-the-badge
-[stars-url]: https://github.com/ISW-IAW/UCASH/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ISW-IAW/SistemaContable.svg?style=for-the-badge
-[issues-url]: https://github.com/ISW-IAW/SistemaContable/issues
-[license-shield]: https://img.shields.io/github/license/ISW-IAW/SistemaContable.svg?style=for-the-badge
-[license-url]: https://github.com/ISW-IAW/SistemaContable/blob/master/LICENSE
-[product-screenshot]: images/screenshot.png
